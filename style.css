@@ -1,0 +1,54 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    height:100vh;
+}
+.container{
+    justify-content:center;
+    display:flex;
+}
+.bg{
+    background-color:hsl(204, 43%, 93%);
+}
+.bg-1{
+    background-color:hsl(179, 62%, 43%);
+    width:330px;
+    border-bottom-left-radius:6px ;
+}
+.bg-2{
+    background-color: hsl(179deg 62% 43% / 71%);;
+    width:330px;
+    border-bottom-right-radius: 6px;
+}
+.card{
+    width:650px;
+}
+.title{
+    color:hsl(179, 62%, 43%);
+}
+.sub-title{
+    color: hsl(71, 73%, 54%);
+}
+.text{
+    color:hsl(218, 22%, 67%);
+}
+.sign-up h5{
+    color:hsl(204, 43%, 93%);
+}
+.month{
+    color:hsl(204, 43%, 93%);
+}
+.sign-up p{
+    color:hsl(204, 43%, 93%);
+}
+.btn-success{
+    color:white;
+    background-color: hsl(71, 73%, 54%) !important;
+    border:none !important;
+    padding-top:10px !important;
+    padding-bottom:10px !important;
+}
+.why{
+    color:hsl(204, 43%, 93%);
+}
